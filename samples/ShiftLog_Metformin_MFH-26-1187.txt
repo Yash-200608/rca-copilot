@@ -1,0 +1,16 @@
+SHIFT LOG - RM STORES (DISPENSING) / PRODUCTION BLOCK A
+Date: 22/10/2026 | Shift: B (14:00-22:00) | Product: Metformin HCl | B.No.: MFH-26-1187 (Stage-I)
+
+15:20 - Dispensing for B.No. MFH-26-1187 started at booth DB-02. Balance WB-07 daily check done. DMA.HCl 5 drums ok. Dicyandiamide (DCDA) 8 bags x 25 kg as per dispensing slip, lot DCD/26/0912. Weighed on WB-07, printouts taken. Checked by PS.
+16:10 - Material shifted to Block A. Charged to R-101 approx 16:40-17:15 as per BMR.
+17:50 - During empty bag reconciliation store helper (Sachin) found 3 empty DCDA bags with yellow UNDER TEST label, lot DCD/26/0931 (GRN dt 20/10). Other 5 empty bags are lot 0912. Both lots same supplier, same bag print. Lot 0931 was kept in rack R-3 along with 0912 since Tuesday because quarantine bay was full.
+18:05 - Informed shift in-charge Mr. R. Kale. 2 full bags of 0931 still lying in R-3 - shifted to quarantine bay and tagged.
+18:20 - QA on-call informed on phone. Told to continue reaction and keep batch on hold before isolation. Deviation to be raised in general shift tomorrow.
+Reaction temp 128-131 C, normal. IPC sample to be sent at 21:00.
+Dispensing slip and BMR show lot 0912 for all 8 bags - to be corrected after QA decision.
+
+Note for next shift:
+1) Do not issue DCDA from R-3 till QA clearance.
+2) Check whether any 0931 bags went for B.No. MFH-26-1186 (A-shift) - not verified yet.
+
+Logged by: P. Shinde, Production Officer (B-shift)

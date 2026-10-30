@@ -1,0 +1,34 @@
+From: Anjali Verma <anjali.verma@westbrook-api.example>
+To: QA Investigations <qa.investigations@westbrook-api.example>; Head Production - Block C <head.prod.c@westbrook-api.example>
+Cc: Head QC <head.qc@westbrook-api.example>
+Subject: OOS - Residual Solvent (Methanol) - Gabapentin USP - B.No. GBP-26-0734
+Date: Tue, 27 Oct 2026 16:52:00 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear All,
+
+This is to inform you that Gabapentin USP batch GBP-26-0734 (final API, sample received in QC on 25-Oct-2026) has failed in Residual Solvents by HS-GC (STP/QC/GBP-014).
+
+Results:
+- Methanol: 4,180 ppm and 4,260 ppm (two independent sample preparations), average 4,220 ppm. Specification: NMT 3000 ppm.
+- 2-Propanol: 640 ppm. Specification: NMT 5000 ppm - complies.
+- LOD (release test): 0.49% w/w. Specification: NMT 0.5% w/w - complies.
+
+Preliminary laboratory checks (Phase Ia) were done by the GC section in-charge along with the analyst:
+- System suitability passed (%RSD of six methanol standard injections 2.4%, limit NMT 10.0%; resolution complies). Blank shows no peak at methanol RT.
+- Standard and sample weights, dilutions and calculations re-verified - no error found.
+- Headspace vials checked for crimp integrity - OK.
+- GC-HS-04 calibration valid till 12-Dec-2026; no error messages in the sequence.
+- Standard stock solution and balance sample quantity retained.
+
+No assignable laboratory error has been identified so far. As per SOP QA-OOS-002 we request QA approval for hypothesis testing and retest of the original sample by a second analyst.
+
+For your information, the previous batch GBP-26-0731 gave methanol 2,710 ppm (within limit). Normally this product gives 400-1,100 ppm.
+
+Production is requested to check the drying records of this batch. The batch is under QC hold in SAP.
+
+Regards,
+Anjali Verma
+Manager - Quality Control
+Westbrook API Site

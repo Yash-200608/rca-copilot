@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+.local/
+*.pyc
+dist/
+.pytest_cache/
+.llm_cache/
+videos/
